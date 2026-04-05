@@ -1,0 +1,12 @@
+Para jogar o jogo, simplismente extraia o arquivo e inicie o executável.
+
+M = Materiais para gastar com amiguinhos.
+E = Ernegia que serve como combustivel.
+
+Para colocar um amiguinho espere ele terminar de ser criado.
+
+Não deixe os inimigos chegarem no final.
+
+Aperte "F11" para deixar o jogo em tela cheia.
+
+DIVIRTA-SE
