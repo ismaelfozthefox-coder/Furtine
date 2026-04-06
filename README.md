@@ -10,7 +10,7 @@ Agora é possível perder ao inimigo chegar no final.
 
 Seus amiguinhos agora custam Materiais e precisam de tempo para serem criados.
 
-**Bixim** precisa de ernegia para atirar.
+**Bixim** precisa de energia para atirar.
 
 Modo em tela cheia.
 
