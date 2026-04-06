@@ -1,7 +1,7 @@
-Para jogar o jogo, simplismente extraia o arquivo e inicie o executável.
+Para jogar o jogo, simplesmente extraia o arquivo e inicie o executável.
 
 M = Materiais para gastar com amiguinhos.
-E = Ernegia que serve como combustivel.
+E = Energia que serve como combustível.
 
 Para colocar um amiguinho espere ele terminar de ser criado.
 
